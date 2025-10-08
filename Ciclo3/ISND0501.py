@@ -25,4 +25,6 @@ mi_palabra_cap = mi_palabra.capitalize()
 print(mi_palabra_mayuscula) #hace todo mayusula
 print(mi_palabra_cap) #pone 1ra palabra con mayuscula
 
-tupla1 = (1,12,255,1289,60000)
+tupla1 = (1,12,255,1289,60000) 
+lista1 = [1,12,255,1289,60000] #if () tupla ; if [] lista
+print(len(tupla1)) #cada elemento cuenta como un caracter
